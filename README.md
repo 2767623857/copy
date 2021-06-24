@@ -8,7 +8,7 @@
 #### 运行效果
 
 1.  ![Image](https://gitee.com/alitakeep/focusApp.git)
-2.  ![Image](https://gitee.com/alitakeep/focusApp.git)
+2.  ![Image](https://gitee.com/alitakeep/focusApp/raw/master/%E8%AE%B0%E5%BD%95.JPG)
 3.  ![Image](https://gitee.com/alitakeep/focusApp.git)
 4.  ![Image](https://gitee.com/alitakeep/focusApp.git)
 
